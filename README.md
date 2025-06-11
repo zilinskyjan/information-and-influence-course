@@ -1,5 +1,7 @@
 # Information and Influence: Behavioral Approaches to Political Persuasion
 
+View the slides for the core lecture [here](http://zilinskyjan.github.io/information-and-influence-course/).
+
 *Description:*
 
 This course explores the science of political persuasion by examining why people believe and act on political messages. Moving beyond traditional models that assume purely rational decision-making, we will apply insights from behavioral economics and social psychology to understand how voters, candidates, and coalitions are influenced.
