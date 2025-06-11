@@ -1,6 +1,6 @@
 # Information and Influence: Behavioral Approaches to Political Persuasion
 
-View the slides for the core lecture [here](http://zilinskyjan.github.io/information-and-influence-course/).
+View the slides for the core lectures [here](http://zilinskyjan.github.io/information-and-influence-course/).
 
 *Description:*
 
